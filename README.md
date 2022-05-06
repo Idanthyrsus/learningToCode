@@ -3,4 +3,4 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/3otPoyaa7TQ7lQqhpu/giphy.gif" width="100"/></div>
+<img src="https://www.chinadaily.com.cn/life/images/attachement/jpg/site1/20110225/002564bc712b0ed1878406.jpg" width="100"/></div>
