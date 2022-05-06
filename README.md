@@ -6,9 +6,9 @@
 
 ### About Me:
 
-:telescope: I’m learning C++ and Swift to build applications.
+- :telescope: I’m learning C++ and Swift and would like to build applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring iOS developement.
 
 - :zap: In my free time, I solve programming problems and read tech articles.
 
