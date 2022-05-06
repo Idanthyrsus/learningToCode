@@ -5,3 +5,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Bagua_Zhao_Huiqian.jpg" width="100"/></div>
 
 ### About Me:
+
+:telescope: I’m learning C++ and Swift to build applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve programming problems and read tech articles.
+
+- :mailbox:How to reach me: mocker-waves@mail.ru
