@@ -3,4 +3,4 @@
 </div>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/l1J3E12XkLxhDRfXi/giphy.gif" width="100"/></div>
+<img src="https://media.giphy.com/media/3otPoyaa7TQ7lQqhpu/giphy.gif" width="100"/></div>
