@@ -1,0 +1,41 @@
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+    cout << "This program predicts the size of population." << endl;
+    int num_days;
+    float  increase,
+           organisms,
+           population,
+           num_increase;
+    cout << "What is the population right now?" << endl;
+    cin >> organisms;
+    while (organisms < 2)
+    {
+        cout << "The number must be greater than 1. Try again: ";
+        cin >> organisms;
+    }
+    cout << endl << "What is the daily average increase in %." << endl;
+    cin >> increase;
+    while (increase < 0)
+    {
+        cout << "The number must be positive! Try again: ";
+        cin >> increase;
+    }
+    increase = increase * 0.01;
+    cout << endl << "Enter the number of days they will increase: " << endl;
+    cin >> num_days;
+     while (num_days < 1)
+    {
+        cout << "The number must be more than 0! Try again: ";
+        cin >> num_days;
+    }
+    for (int i = 1; i <= num_days; i++)
+
+    {
+        organisms += organisms * increase;
+        cout << "The size of population in day " << i << " will be " << organisms << endl;
+    }
+    return 0;
+}
