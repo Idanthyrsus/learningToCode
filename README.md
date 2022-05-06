@@ -4,4 +4,4 @@
 <div id="header" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Bagua_Zhao_Huiqian.jpg" width="100"/></div>
 
-### 👨_technologist: About Me 
+### About Me:
