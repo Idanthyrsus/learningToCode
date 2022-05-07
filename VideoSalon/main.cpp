@@ -33,7 +33,5 @@ int main(int argc, const char * argv[])
     }
     delete [] movieList;
     movieList = nullptr;
-    
-   
     return 0;
 }
