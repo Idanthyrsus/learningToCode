@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   cout << "This program counts an arithmetic mean.\n\n";
+   int range,
+       initial,
+       ending,
+       sum = 0;
+   float arith_mean;
+   cout << "Please enter the initial number: ";
+   cin >> initial;
+   cout << "Please enter the ending number: ";
+   cin >> ending;
+   
+   for (range = initial; range <= ending; range++)
+   {
+         sum = sum+range;
+         arith_mean = (float)sum/(ending-(initial-1));
+   }
+        cout << "Your arithmetic mean is: " << arith_mean << endl;
+        return 0;
+}
