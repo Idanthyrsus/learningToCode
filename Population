@@ -9,6 +9,7 @@ int main ()
            organisms,
            population,
            num_increase;
+           
     cout << "What is the population right now?" << endl;
     cin >> organisms;
     while (organisms < 2)
@@ -26,13 +27,14 @@ int main ()
     increase = increase * 0.01;
     cout << endl << "Enter the number of days they will increase: " << endl;
     cin >> num_days;
+    
      while (num_days < 1)
     {
         cout << "The number must be more than 0! Try again: ";
         cin >> num_days;
     }
+    
     for (int i = 1; i <= num_days; i++)
-
     {
         organisms += organisms * increase;
         cout << "The size of population in day " << i << " will be " << organisms << endl;
