@@ -6,7 +6,7 @@
 
 ### About Me:
 
-- :telescope: I’m learning C++ and Swift and would like to build applications.
+- :telescope: I’m learning C++ and Swift and would like to build applications and develop games.
 
 - :seedling: Exploring iOS developement.
 
